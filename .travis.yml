@@ -4,6 +4,7 @@ env:
   global:
     - ANDROID_API_LEVEL=25
     - ANDROID_BUILD_TOOLS_VERSION=25.0.2
+    - secure: hash value
 android:
   licenses:
     - 'android-adk-preview-license-.+'
